@@ -12,8 +12,12 @@
              * Have it report a sum of each vowel found.
              */
 
-            $vowels = array('a','e','i','o','u');
-            $word = 'mathematicioan';
+            $inputs = array(
+              'vowels' => array('a','e','i','o','u'),
+              'numbers' => range(0, 100);
+            );
+
+            $word = 'mathematician';
         ?>
 
     </p>

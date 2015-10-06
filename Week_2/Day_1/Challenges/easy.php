@@ -27,6 +27,7 @@
             <?php
 
           	    // code goes here ...
+                echo "my code went here";
 
             ?>
         </p>
